@@ -1,12 +1,12 @@
 const config = {
     // 公众号配置
-    app_id: "wxc1748b20937484d1", // 公众号appId
-    app_secret: "e7a4081725250ce56630be692317d035", // 公众号appSecret
-    user: "ogNA36gYLBVkhrnrVrRmBohMO0yc", // 接收公众号消息的微信号
-    template_id: "XndoueKppEvHt6k100QoWBBj4uLCO0ihI9rwzqHpKZ8", // 模板 id
+    app_id: "", // 公众号appId
+    app_secret: "", // 公众号appSecret
+    user: "", // 接收公众号消息的微信号
+    template_id: "", // 模板 id
     // 天气信息配置（接口申请地址：https://tianqiapi.com/）
-    wea_appid: "13262229",
-    wea_appsecret: "EUv29g1e",
+    wea_appid: "",
+    wea_appsecret: "",
     // 信息配置
     city: "上海", // 所在城市
     birthday1: { "name": "宝贝", "birthday": "2022-12-27" }, // 宝贝生日（阳历），姓名和生日，生日格式为"年-月-日"
